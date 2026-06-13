@@ -1,0 +1,14 @@
+{
+  "registry": "agentbrain-official",
+  "updated": "2026-06-13T08:27:40Z",
+  "addons": [
+    {
+      "id": "git-email-guard",
+      "name": "Git Email Guard (pre-commit hook)",
+      "version": "0.1.0",
+      "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-git-email-guard-v0.1.0/addon-git-email-guard-v0.1.0.zip",
+      "sha256": "a0e79d407350cf2c35f8c0d610b565a192cc939a77dbf79fbf7084f1f4a16eb7",
+      "privacy": "local-only"
+    }
+  ]
+}
