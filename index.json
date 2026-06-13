@@ -1,14 +1,150 @@
 {
   "registry": "agentbrain-official",
-  "updated": "2026-06-13T09:07:24Z",
+  "updated": "2026-06-13T10:28:10Z",
   "addons": [
+    {
+      "id": "agent-browser",
+      "name": "Agent Browser (browser automation CLI)",
+      "version": "0.27.0",
+      "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-agent-browser-v0.27.0/addon-agent-browser-v0.27.0.zip",
+      "sha256": "d5b8aba693800c6c51cfbf37973683c557d6f936776c2f5bc507cd74ad11f966",
+      "privacy": "sends-all"
+    },
+    {
+      "id": "agentbrain-mcp",
+      "name": "agentBrain MCP server",
+      "version": "0.1.0",
+      "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-agentbrain-mcp-v0.1.0/addon-agentbrain-mcp-v0.1.0.zip",
+      "sha256": "4c97f53e039dc8693744372a62518d74834a3fda75933dd96c26480d7e4db389",
+      "privacy": "local"
+    },
+    {
+      "id": "anthropic-skills",
+      "name": "Anthropic Official Skills",
+      "version": "0.1.0",
+      "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-anthropic-skills-v0.1.0/addon-anthropic-skills-v0.1.0.zip",
+      "sha256": "31ac89c0f7e36d4e6045cd57a15faa97008e9ea8e7f16ee2ca68af284ccd6542",
+      "privacy": "local"
+    },
+    {
+      "id": "claude-memory-redirect",
+      "name": "Claude Memory Redirect (behavior)",
+      "version": "0.1.0",
+      "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-claude-memory-redirect-v0.1.0/addon-claude-memory-redirect-v0.1.0.zip",
+      "sha256": "7ac564664bc81955309ba158dd58c94c4ea01292de70424ca58f6aae25cdde06",
+      "privacy": "local-only"
+    },
+    {
+      "id": "event-bus",
+      "name": "Event Bus (transport)",
+      "version": "0.3.0",
+      "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-event-bus-v0.3.0/addon-event-bus-v0.3.0.zip",
+      "sha256": "0b56e260a55c2add0b7ef421617546da8af4292c9c602625a8d15490114161f5",
+      "privacy": "local"
+    },
+    {
+      "id": "extract-learnings",
+      "name": "Extract Learnings (behavior)",
+      "version": "0.1.0",
+      "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-extract-learnings-v0.1.0/addon-extract-learnings-v0.1.0.zip",
+      "sha256": "0826df10a5d504eaa47fb033ce8fc8cb24c2e983997a254af579965e72d79fe4",
+      "privacy": "sends-docs"
+    },
     {
       "id": "git-email-guard",
       "name": "Git Email Guard (pre-commit hook)",
       "version": "0.1.0",
       "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-git-email-guard-v0.1.0/addon-git-email-guard-v0.1.0.zip",
-      "sha256": "a0e79d407350cf2c35f8c0d610b565a192cc939a77dbf79fbf7084f1f4a16eb7",
+      "sha256": "c1e8e721c6aa1131afc965f83176b876972a9e5ed7ce7da72435093d18aca4c0",
       "privacy": "local-only"
+    },
+    {
+      "id": "graphify",
+      "name": "Graphify",
+      "version": "0.2.0",
+      "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-graphify-v0.2.0/addon-graphify-v0.2.0.zip",
+      "sha256": "9e69877fb8570f8532cf9fdb831b9f944047d9eac24b7861d502eddfc3461716",
+      "privacy": "sends-docs"
+    },
+    {
+      "id": "headroom-proxy",
+      "name": "Headroom Token Compression Proxy",
+      "version": "0.1.0",
+      "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-headroom-proxy-v0.1.0/addon-headroom-proxy-v0.1.0.zip",
+      "sha256": "5776d0902e5d73cd9161e27e0886b5757d9941d95ec6cb6e52380a76bbdbfde9",
+      "privacy": "local"
+    },
+    {
+      "id": "impeccable",
+      "name": "Impeccable (frontend design skill)",
+      "version": "0.1.0",
+      "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-impeccable-v0.1.0/addon-impeccable-v0.1.0.zip",
+      "sha256": "80c6348c283a1d9962a273338eb98abf33278af3b3d7c67204689caf2af62d34",
+      "privacy": "local"
+    },
+    {
+      "id": "routa",
+      "name": "Routa",
+      "version": "0.1.0",
+      "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-routa-v0.1.0/addon-routa-v0.1.0.zip",
+      "sha256": "9a8f08ba679e87fdbcf949d8c30fc8a214c60c4fc0832e0bc14409cdba79b1bf",
+      "privacy": "sends-all"
+    },
+    {
+      "id": "session-journal",
+      "name": "Session Journal (behavior)",
+      "version": "0.1.0",
+      "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-session-journal-v0.1.0/addon-session-journal-v0.1.0.zip",
+      "sha256": "bb415a4268f652bc5bcc1d703e3253be193386e53eb7a94eae14387720ad8a2c",
+      "privacy": "local-only"
+    },
+    {
+      "id": "sitescope",
+      "name": "sitescope (website/webapp analysis CLI)",
+      "version": "0.2.0",
+      "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-sitescope-v0.2.0/addon-sitescope-v0.2.0.zip",
+      "sha256": "2da08eea46cd94c7d9b27d016c65d225941880a3071d086705c426d00c6e6a96",
+      "privacy": "sends-all"
+    },
+    {
+      "id": "trailofbits-skills",
+      "name": "Trail of Bits Security Skills",
+      "version": "0.1.0",
+      "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-trailofbits-skills-v0.1.0/addon-trailofbits-skills-v0.1.0.zip",
+      "sha256": "ac2c6e8c20de439a9b5edbc14938898a4214e7f0b627d0c72d598d16ef171f38",
+      "privacy": "local"
+    },
+    {
+      "id": "understand-anything",
+      "name": "Understand Anything",
+      "version": "0.1.0",
+      "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-understand-anything-v0.1.0/addon-understand-anything-v0.1.0.zip",
+      "sha256": "676fb088708f0ec88f4bf7b7807592aa7593cef73baa636d457642790d122ef1",
+      "privacy": "sends-all"
+    },
+    {
+      "id": "uxray",
+      "name": "uxray (UI design critique for web, Tauri, macOS and iOS)",
+      "version": "0.1.0",
+      "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-uxray-v0.1.0/addon-uxray-v0.1.0.zip",
+      "sha256": "254e105b351c421c2aeb73e331d94cc611e2e09069577886b00ed7c3c02b2a4e",
+      "privacy": "local"
+    },
+    {
+      "id": "weekly-review",
+      "name": "Weekly Review",
+      "version": "0.2.0",
+      "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-weekly-review-v0.2.0/addon-weekly-review-v0.2.0.zip",
+      "sha256": "6554dd7f2b61fb2b9257ab6e8aac319ecf23134cd6a605c46962db6e862eec2b",
+      "privacy": "sends-docs"
+    },
+    {
+      "id": "youtube-knowledge",
+      "name": "YouTube Knowledge Sync",
+      "version": "0.1.0",
+      "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-youtube-knowledge-v0.1.0/addon-youtube-knowledge-v0.1.0.zip",
+      "sha256": "2a0180f2867b2dedb0fd4ceec178918a53d95cd5a2fe8706f4bc107c7e6f67a6",
+      "privacy": "sends-docs"
     }
   ]
 }
