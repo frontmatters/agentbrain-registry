@@ -1,6 +1,6 @@
 {
   "registry": "agentbrain",
-  "updated": "2026-06-13T11:13:43Z",
+  "updated": "2026-06-14T11:18:41Z",
   "addons": [
     {
       "id": "agent-browser",
@@ -128,6 +128,14 @@
       "version": "0.1.0",
       "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-uxray-v0.1.0/addon-uxray-v0.1.0.zip",
       "sha256": "254e105b351c421c2aeb73e331d94cc611e2e09069577886b00ed7c3c02b2a4e",
+      "privacy": "local"
+    },
+    {
+      "id": "uxray",
+      "name": "uxray (UI design critique for web, Tauri, macOS and iOS)",
+      "version": "0.1.1",
+      "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-uxray-v0.1.1/addon-uxray-v0.1.1.zip",
+      "sha256": "8697ff9a4892425d954d7d39647633f81cd340bb470e04876e1191167bfd85bb",
       "privacy": "local"
     },
     {
