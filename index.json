@@ -1,6 +1,6 @@
 {
   "registry": "agentbrain",
-  "updated": "2026-06-14T11:21:30Z",
+  "updated": "2026-07-26T17:06:18Z",
   "addons": [
     {
       "id": "agent-browser",
@@ -128,6 +128,14 @@
       "version": "0.1.1",
       "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-uxray-v0.1.1/addon-uxray-v0.1.1.zip",
       "sha256": "459988d03d9c80defe5339993f25f75e340e2a523bb7722f7ff906d40710d227",
+      "privacy": "local"
+    },
+    {
+      "id": "web-interface-guidelines",
+      "name": "Web Interface Guidelines (Vercel UI compliance checklist)",
+      "version": "0.1.0",
+      "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-web-interface-guidelines-v0.1.0/addon-web-interface-guidelines-v0.1.0.zip",
+      "sha256": "144e50b92f6b160318a6bbcc9e254ae7e9a91bc6d72d7f9d718869fbfd567d78",
       "privacy": "local"
     },
     {
