@@ -1,29 +1,29 @@
 {
   "registry": "agentbrain",
-  "updated": "2026-07-26T17:06:18Z",
+  "updated": "2026-07-26T19:40:19Z",
   "addons": [
     {
       "id": "agent-browser",
       "name": "Agent Browser (browser automation CLI)",
-      "version": "0.27.0",
-      "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-agent-browser-v0.27.0/addon-agent-browser-v0.27.0.zip",
-      "sha256": "d5b8aba693800c6c51cfbf37973683c557d6f936776c2f5bc507cd74ad11f966",
+      "version": "0.27.1",
+      "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-agent-browser-v0.27.1/addon-agent-browser-v0.27.1.zip",
+      "sha256": "009f497480d41e84c627816da8dd6da3a46642e578d31462a11c7de3c8f686c0",
       "privacy": "sends-all"
     },
     {
       "id": "agentbrain-mcp",
       "name": "agentBrain MCP server",
-      "version": "0.1.0",
-      "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-agentbrain-mcp-v0.1.0/addon-agentbrain-mcp-v0.1.0.zip",
-      "sha256": "4c97f53e039dc8693744372a62518d74834a3fda75933dd96c26480d7e4db389",
+      "version": "0.1.2",
+      "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-agentbrain-mcp-v0.1.2/addon-agentbrain-mcp-v0.1.2.zip",
+      "sha256": "998eacc25fef84a4edfad061551dafdc4709f7fbb348c51791204233b6078f83",
       "privacy": "local"
     },
     {
       "id": "anthropic-skills",
       "name": "Anthropic Official Skills",
-      "version": "0.1.0",
-      "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-anthropic-skills-v0.1.0/addon-anthropic-skills-v0.1.0.zip",
-      "sha256": "31ac89c0f7e36d4e6045cd57a15faa97008e9ea8e7f16ee2ca68af284ccd6542",
+      "version": "0.1.1",
+      "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-anthropic-skills-v0.1.1/addon-anthropic-skills-v0.1.1.zip",
+      "sha256": "d8fe148904a254123a3d1e3d4b90dc63d9eb28cc123040e146a3df96ff5fc713",
       "privacy": "local"
     },
     {
