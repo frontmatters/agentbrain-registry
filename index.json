@@ -1,6 +1,6 @@
 {
   "registry": "agentbrain",
-  "updated": "2026-07-26T19:40:27Z",
+  "updated": "2026-07-26T19:45:55Z",
   "addons": [
     {
       "id": "agent-browser",
@@ -27,107 +27,147 @@
       "privacy": "local"
     },
     {
+      "id": "brain-explain",
+      "name": "brain-explain",
+      "version": "0.1.1",
+      "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-brain-explain-v0.1.1/addon-brain-explain-v0.1.1.zip",
+      "sha256": "408bceaa768f632bdefe1e1933326937de7511a90464b4b1a2c58098d42d6036",
+      "privacy": "local"
+    },
+    {
       "id": "claude-memory-redirect",
       "name": "Claude Memory Redirect (behavior)",
-      "version": "0.1.0",
-      "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-claude-memory-redirect-v0.1.0/addon-claude-memory-redirect-v0.1.0.zip",
-      "sha256": "7ac564664bc81955309ba158dd58c94c4ea01292de70424ca58f6aae25cdde06",
+      "version": "0.1.1",
+      "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-claude-memory-redirect-v0.1.1/addon-claude-memory-redirect-v0.1.1.zip",
+      "sha256": "efbf3bc52404400030fa77b550b07e5fee880837bbf57f01a42fb90d6e4619f0",
       "privacy": "local-only"
     },
     {
       "id": "event-bus",
       "name": "Event Bus (transport)",
-      "version": "0.3.0",
-      "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-event-bus-v0.3.0/addon-event-bus-v0.3.0.zip",
-      "sha256": "0b56e260a55c2add0b7ef421617546da8af4292c9c602625a8d15490114161f5",
+      "version": "0.3.1",
+      "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-event-bus-v0.3.1/addon-event-bus-v0.3.1.zip",
+      "sha256": "b91123831c34a51dbac79ce7fd7bbfd86974528dec16cd066a71f2fb8b909dd4",
       "privacy": "local"
     },
     {
       "id": "extract-learnings",
       "name": "Extract Learnings (behavior)",
-      "version": "0.1.0",
-      "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-extract-learnings-v0.1.0/addon-extract-learnings-v0.1.0.zip",
-      "sha256": "0826df10a5d504eaa47fb033ce8fc8cb24c2e983997a254af579965e72d79fe4",
+      "version": "0.1.1",
+      "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-extract-learnings-v0.1.1/addon-extract-learnings-v0.1.1.zip",
+      "sha256": "c05caad73bb01ad2859e304450a57804126242d77a3ca8815809161d25e05361",
       "privacy": "sends-docs"
     },
     {
       "id": "git-email-guard",
       "name": "Git Email Guard (pre-commit hook)",
-      "version": "0.1.0",
-      "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-git-email-guard-v0.1.0/addon-git-email-guard-v0.1.0.zip",
-      "sha256": "c1e8e721c6aa1131afc965f83176b876972a9e5ed7ce7da72435093d18aca4c0",
+      "version": "0.1.1",
+      "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-git-email-guard-v0.1.1/addon-git-email-guard-v0.1.1.zip",
+      "sha256": "c7f4b97d94f4d398f59c99466deff1fa78b6aff692c2de40a9a91e7928ef2571",
       "privacy": "local-only"
     },
     {
       "id": "graphify",
       "name": "Graphify",
-      "version": "0.2.0",
-      "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-graphify-v0.2.0/addon-graphify-v0.2.0.zip",
-      "sha256": "9e69877fb8570f8532cf9fdb831b9f944047d9eac24b7861d502eddfc3461716",
+      "version": "0.2.1",
+      "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-graphify-v0.2.1/addon-graphify-v0.2.1.zip",
+      "sha256": "a6c257afd180919d42c12512b309262515bb0677b74a26452e8c76c7ec75f19b",
       "privacy": "sends-docs"
     },
     {
       "id": "headroom-proxy",
       "name": "Headroom Token Compression Proxy",
-      "version": "0.1.0",
-      "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-headroom-proxy-v0.1.0/addon-headroom-proxy-v0.1.0.zip",
-      "sha256": "5776d0902e5d73cd9161e27e0886b5757d9941d95ec6cb6e52380a76bbdbfde9",
+      "version": "0.1.1",
+      "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-headroom-proxy-v0.1.1/addon-headroom-proxy-v0.1.1.zip",
+      "sha256": "5f2ec1a6f5986ad755fc47e306e2231e2130dc9813de6f62043572c101e128c8",
       "privacy": "local"
     },
     {
       "id": "impeccable",
       "name": "Impeccable (frontend design skill)",
-      "version": "0.1.0",
-      "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-impeccable-v0.1.0/addon-impeccable-v0.1.0.zip",
-      "sha256": "80c6348c283a1d9962a273338eb98abf33278af3b3d7c67204689caf2af62d34",
+      "version": "0.1.1",
+      "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-impeccable-v0.1.1/addon-impeccable-v0.1.1.zip",
+      "sha256": "4a53050077a91730def52dc98ccf844c18af295d2e5fba89f36cee80a022b866",
       "privacy": "local"
+    },
+    {
+      "id": "incognito",
+      "name": "Incognito Mode (behavior)",
+      "version": "0.1.1",
+      "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-incognito-v0.1.1/addon-incognito-v0.1.1.zip",
+      "sha256": "654de106a4b0a172943b9190d3675c260c000451128e3c1c1b59f0c72b3670d6",
+      "privacy": "local-only"
     },
     {
       "id": "routa",
       "name": "Routa",
-      "version": "0.1.0",
-      "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-routa-v0.1.0/addon-routa-v0.1.0.zip",
-      "sha256": "9a8f08ba679e87fdbcf949d8c30fc8a214c60c4fc0832e0bc14409cdba79b1bf",
+      "version": "0.1.1",
+      "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-routa-v0.1.1/addon-routa-v0.1.1.zip",
+      "sha256": "d30b4746af80a90841a657d524373f00dfd5f27d659a219a215c275d922e46b9",
       "privacy": "sends-all"
+    },
+    {
+      "id": "secrets-helper",
+      "name": "secrets-helper (tiered macOS keychain for secrets)",
+      "version": "0.1.2",
+      "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-secrets-helper-v0.1.2/addon-secrets-helper-v0.1.2.zip",
+      "sha256": "8b4c3cbd73ba7b1b1d917a44d0ea6ecffddd9fdfc84adb2bd6a6cf99c45d18fc",
+      "privacy": "local"
     },
     {
       "id": "session-journal",
       "name": "Session Journal (behavior)",
-      "version": "0.1.0",
-      "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-session-journal-v0.1.0/addon-session-journal-v0.1.0.zip",
-      "sha256": "bb415a4268f652bc5bcc1d703e3253be193386e53eb7a94eae14387720ad8a2c",
+      "version": "0.1.1",
+      "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-session-journal-v0.1.1/addon-session-journal-v0.1.1.zip",
+      "sha256": "4d9b1360baad1b0436ae43f6d45a50687c5e56342fde3802093d0d2af1295acf",
       "privacy": "local-only"
+    },
+    {
+      "id": "shorthand",
+      "name": "Shorthand (afkortingen)",
+      "version": "0.2.1",
+      "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-shorthand-v0.2.1/addon-shorthand-v0.2.1.zip",
+      "sha256": "c8109480602a58fd4d2f2e969a3f757e44652ea97cba657c43b28bbac0593b0f",
+      "privacy": "local"
     },
     {
       "id": "sitescope",
       "name": "sitescope (website/webapp analysis CLI)",
-      "version": "0.2.0",
-      "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-sitescope-v0.2.0/addon-sitescope-v0.2.0.zip",
-      "sha256": "2da08eea46cd94c7d9b27d016c65d225941880a3071d086705c426d00c6e6a96",
+      "version": "0.2.1",
+      "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-sitescope-v0.2.1/addon-sitescope-v0.2.1.zip",
+      "sha256": "b5b201b7900f4db741e0127534fdc4f0c67189b2cb79c744fb71d181aaf0f132",
       "privacy": "sends-all"
+    },
+    {
+      "id": "still-needed",
+      "name": "Still Needed (relevance check)",
+      "version": "0.1.1",
+      "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-still-needed-v0.1.1/addon-still-needed-v0.1.1.zip",
+      "sha256": "8d5edde0d8d24bcead714816b2970c31457d10948d027d1b218d85519f7d10da",
+      "privacy": "local-only"
     },
     {
       "id": "trailofbits-skills",
       "name": "Trail of Bits Security Skills",
-      "version": "0.1.0",
-      "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-trailofbits-skills-v0.1.0/addon-trailofbits-skills-v0.1.0.zip",
-      "sha256": "ac2c6e8c20de439a9b5edbc14938898a4214e7f0b627d0c72d598d16ef171f38",
+      "version": "0.1.1",
+      "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-trailofbits-skills-v0.1.1/addon-trailofbits-skills-v0.1.1.zip",
+      "sha256": "1f6900696220601146705f3a62555837f98fe75caf25816fd5f67a5138a4130c",
       "privacy": "local"
     },
     {
       "id": "understand-anything",
       "name": "Understand Anything",
-      "version": "0.1.0",
-      "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-understand-anything-v0.1.0/addon-understand-anything-v0.1.0.zip",
-      "sha256": "676fb088708f0ec88f4bf7b7807592aa7593cef73baa636d457642790d122ef1",
+      "version": "0.1.1",
+      "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-understand-anything-v0.1.1/addon-understand-anything-v0.1.1.zip",
+      "sha256": "ce00b82a4db8b9d5c02c4fe317e5edb2302d6252970c05615e52f15794f8a762",
       "privacy": "sends-all"
     },
     {
       "id": "uxray",
       "name": "uxray (UI design critique for web, Tauri, macOS and iOS)",
-      "version": "0.1.1",
-      "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-uxray-v0.1.1/addon-uxray-v0.1.1.zip",
-      "sha256": "459988d03d9c80defe5339993f25f75e340e2a523bb7722f7ff906d40710d227",
+      "version": "0.1.2",
+      "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-uxray-v0.1.2/addon-uxray-v0.1.2.zip",
+      "sha256": "a6c61082a4de2399c409a1cd685ddecda45003ecd3bff2903b2757da15224240",
       "privacy": "local"
     },
     {
@@ -141,9 +181,17 @@
     {
       "id": "weekly-review",
       "name": "Weekly Review",
-      "version": "0.2.0",
-      "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-weekly-review-v0.2.0/addon-weekly-review-v0.2.0.zip",
-      "sha256": "6554dd7f2b61fb2b9257ab6e8aac319ecf23134cd6a605c46962db6e862eec2b",
+      "version": "0.2.1",
+      "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-weekly-review-v0.2.1/addon-weekly-review-v0.2.1.zip",
+      "sha256": "ab6c45667569235c87421cd86074b3d41644629c41ec040ff92ec222231f0e2a",
+      "privacy": "sends-docs"
+    },
+    {
+      "id": "youtube-digest",
+      "name": "YouTube Digest",
+      "version": "0.1.1",
+      "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-youtube-digest-v0.1.1/addon-youtube-digest-v0.1.1.zip",
+      "sha256": "2ff5d310464b13d0e1d5a32367bfe0d63c4cb930f7466078eb69f3e3f22609e9",
       "privacy": "sends-docs"
     },
     {
