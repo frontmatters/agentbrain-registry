@@ -1,6 +1,6 @@
 {
   "registry": "agentbrain",
-  "updated": "2026-09-06T06:39:15Z",
+  "updated": "2026-09-06T06:39:26Z",
   "addons": [
     {
       "id": "agent-browser",
@@ -304,7 +304,7 @@
       "name": "YouTube Digest",
       "version": "0.3.0",
       "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-youtube-digest-v0.3.0/addon-youtube-digest-v0.3.0.zip",
-      "sha256": "70d1d37335129d085a52f8a379490a8edc6c91d30670456f9c6d68e0076e985d",
+      "sha256": "a5d431aec3334a6a422294122246b192e298ab822ac7b86b6a13000b33152571",
       "privacy": "sends-docs",
       "author": "frontmatters",
       "license": "Apache-2.0",
