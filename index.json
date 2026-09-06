@@ -1,6 +1,6 @@
 {
   "registry": "agentbrain",
-  "updated": "2026-09-06T06:38:55Z",
+  "updated": "2026-09-06T06:39:05Z",
   "addons": [
     {
       "id": "agent-browser",
@@ -216,7 +216,7 @@
       "name": "Shorthand",
       "version": "0.4.1",
       "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-shorthand-v0.4.1/addon-shorthand-v0.4.1.zip",
-      "sha256": "b7f1cb89d0757507d5f66e24c1936d93ab39b804ffdbdb0cbbc940a64462f72f",
+      "sha256": "7f3687968a1146ef10d3a88ed5ee4401842578ba4522ab072607ed2582ca9598",
       "privacy": "local",
       "author": "frontmatters",
       "license": "Apache-2.0",
