@@ -1,6 +1,6 @@
 {
   "registry": "agentbrain",
-  "updated": "2026-09-06T06:39:26Z",
+  "updated": "2026-09-06T20:36:16Z",
   "addons": [
     {
       "id": "agent-browser",
@@ -157,6 +157,17 @@
       "requires": []
     },
     {
+      "id": "llm-config",
+      "name": "LLM Config (local-first resolver)",
+      "version": "0.1.1",
+      "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-llm-config-v0.1.1/addon-llm-config-v0.1.1.zip",
+      "sha256": "14bfc9cbb002988cbe5a00b65aa0f9701c6e22ca5f1c657890ab50b16a2e98a8",
+      "privacy": "local",
+      "author": "frontmatters",
+      "license": "Apache-2.0",
+      "requires": []
+    },
+    {
       "id": "lottie-animator",
       "name": "Lottie Animator (SVG → Lottie motion-graphics generator)",
       "version": "0.1.0",
@@ -302,9 +313,9 @@
     {
       "id": "youtube-digest",
       "name": "YouTube Digest",
-      "version": "0.3.0",
-      "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-youtube-digest-v0.3.0/addon-youtube-digest-v0.3.0.zip",
-      "sha256": "a5d431aec3334a6a422294122246b192e298ab822ac7b86b6a13000b33152571",
+      "version": "0.3.1",
+      "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-youtube-digest-v0.3.1/addon-youtube-digest-v0.3.1.zip",
+      "sha256": "2fff20d20e0d66285795bce93f714afb7fc01f93338708241abbdf87913a6d6f",
       "privacy": "sends-docs",
       "author": "frontmatters",
       "license": "Apache-2.0",
