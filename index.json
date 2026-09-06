@@ -1,6 +1,6 @@
 {
   "registry": "agentbrain",
-  "updated": "2026-09-06T06:39:05Z",
+  "updated": "2026-09-06T06:39:15Z",
   "addons": [
     {
       "id": "agent-browser",
@@ -293,7 +293,7 @@
       "name": "Weekly Review",
       "version": "0.3.0",
       "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-weekly-review-v0.3.0/addon-weekly-review-v0.3.0.zip",
-      "sha256": "572fcc6a42d4914b1a365aef35d5f97595d08f85a4c3006af920610483d7b3c2",
+      "sha256": "ab02b47b3a649fd958ad2841c66eb07f86b50059ede482eb996420478757dc2d",
       "privacy": "sends-docs",
       "author": "frontmatters",
       "license": "Apache-2.0",
