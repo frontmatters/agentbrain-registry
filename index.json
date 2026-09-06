@@ -1,6 +1,6 @@
 {
   "registry": "agentbrain",
-  "updated": "2026-09-06T20:36:20Z",
+  "updated": "2026-09-06T23:15:58Z",
   "addons": [
     {
       "id": "agent-browser",
@@ -203,9 +203,9 @@
     {
       "id": "security-pipeline",
       "name": "Security Pipeline (SAST → SCA → DAST)",
-      "version": "0.2.0",
-      "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-security-pipeline-v0.2.0/addon-security-pipeline-v0.2.0.zip",
-      "sha256": "2cd6848040c369f7c889927f4461263f93d8ba0e78b4fce5a3f499a7058db389",
+      "version": "0.2.1",
+      "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-security-pipeline-v0.2.1/addon-security-pipeline-v0.2.1.zip",
+      "sha256": "706fb4b28db62a64c125218056775999820b0bb7da50440643d60fd9f1e7c19b",
       "privacy": "local",
       "author": "frontmatters",
       "license": "Apache-2.0",
