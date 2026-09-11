@@ -1,6 +1,6 @@
 {
   "registry": "agentbrain",
-  "updated": "2026-09-07T23:07:05Z",
+  "updated": "2026-09-11T14:51:07Z",
   "addons": [
     {
       "id": "agent-browser",
@@ -93,9 +93,9 @@
     {
       "id": "git-email-guard",
       "name": "Git Email Guard (pre-commit hook)",
-      "version": "0.1.1",
-      "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-git-email-guard-v0.1.1/addon-git-email-guard-v0.1.1.zip",
-      "sha256": "c7f4b97d94f4d398f59c99466deff1fa78b6aff692c2de40a9a91e7928ef2571",
+      "version": "0.1.2",
+      "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-git-email-guard-v0.1.2/addon-git-email-guard-v0.1.2.zip",
+      "sha256": "587fb2128aee221035298a576f44c5fe218718699a6f1048bc704308642b008d",
       "privacy": "local-only",
       "author": "frontmatters",
       "license": "Apache-2.0",
@@ -192,9 +192,9 @@
     {
       "id": "secrets-helper",
       "name": "secrets-helper (tiered macOS keychain for secrets)",
-      "version": "0.1.2",
-      "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-secrets-helper-v0.1.2/addon-secrets-helper-v0.1.2.zip",
-      "sha256": "8b4c3cbd73ba7b1b1d917a44d0ea6ecffddd9fdfc84adb2bd6a6cf99c45d18fc",
+      "version": "0.1.3",
+      "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-secrets-helper-v0.1.3/addon-secrets-helper-v0.1.3.zip",
+      "sha256": "5a3dc9fd6bf0e65ec6bfa2e78da030b726cc30f48430ea0fd2698de20f9db953",
       "privacy": "local",
       "author": "frontmatters",
       "license": "Apache-2.0",
