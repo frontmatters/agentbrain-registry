@@ -1,6 +1,6 @@
 {
   "registry": "agentbrain",
-  "updated": "2026-09-11T21:32:29Z",
+  "updated": "2026-09-11T22:02:41Z",
   "addons": [
     {
       "id": "agent-browser",
@@ -381,20 +381,9 @@
       "name": "YouTube Digest",
       "version": "0.3.2",
       "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-youtube-digest-v0.3.2/addon-youtube-digest-v0.3.2.zip",
-      "sha256": "bde131ecc26c83057846494fb6a84a52692717a2234c1e8b3b7d5bdb1a1cff49",
+      "sha256": "2fcb9ab3f2b4e718a7afd954996aa9eee25b1b972095213917dc6437fda0b8e9",
       "privacy": "sends-docs",
       "author": "frontmatters",
-      "license": "Apache-2.0",
-      "requires": []
-    },
-    {
-      "id": "youtube-knowledge",
-      "name": "YouTube Knowledge Sync",
-      "version": "0.1.0",
-      "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-youtube-knowledge-v0.1.0/addon-youtube-knowledge-v0.1.0.zip",
-      "sha256": "2a0180f2867b2dedb0fd4ceec178918a53d95cd5a2fe8706f4bc107c7e6f67a6",
-      "privacy": "sends-docs",
-      "author": "Frontmatters",
       "license": "Apache-2.0",
       "requires": []
     }
