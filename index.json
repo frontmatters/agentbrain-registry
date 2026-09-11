@@ -1,6 +1,6 @@
 {
   "registry": "agentbrain",
-  "updated": "2026-09-11T14:51:14Z",
+  "updated": "2026-09-11T21:31:36Z",
   "addons": [
     {
       "id": "agent-browser",
@@ -9,16 +9,16 @@
       "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-agent-browser-v0.27.1/addon-agent-browser-v0.27.1.zip",
       "sha256": "009f497480d41e84c627816da8dd6da3a46642e578d31462a11c7de3c8f686c0",
       "privacy": "sends-all",
-      "author": "frontmatters",
+      "author": "Frontmatters",
       "license": "Apache-2.0",
       "requires": []
     },
     {
       "id": "agentbrain-mcp",
       "name": "agentBrain MCP server",
-      "version": "0.2.0",
-      "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-agentbrain-mcp-v0.2.0/addon-agentbrain-mcp-v0.2.0.zip",
-      "sha256": "3d30cdadcfe0bda99cb9069637f3ba29a48eca4795f8e91ed14bc8cc4cd40a89",
+      "version": "0.2.1",
+      "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-agentbrain-mcp-v0.2.1/addon-agentbrain-mcp-v0.2.1.zip",
+      "sha256": "022e9234cb30cf5c8f11ea33f4125f2e8631f21ad7769e58fe2086bdae3db413",
       "privacy": "local",
       "author": "frontmatters",
       "license": "Apache-2.0",
@@ -30,6 +30,17 @@
       "version": "0.1.1",
       "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-anthropic-skills-v0.1.1/addon-anthropic-skills-v0.1.1.zip",
       "sha256": "d8fe148904a254123a3d1e3d4b90dc63d9eb28cc123040e146a3df96ff5fc713",
+      "privacy": "local",
+      "author": "Frontmatters",
+      "license": "Apache-2.0",
+      "requires": []
+    },
+    {
+      "id": "bloop",
+      "name": "Backlog Loop",
+      "version": "0.2.0",
+      "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-bloop-v0.2.0/addon-bloop-v0.2.0.zip",
+      "sha256": "6f169b0bd5929d301fc566c431b6b932c1952aa7054c77358a99c95ea8b5faf8",
       "privacy": "local",
       "author": "frontmatters",
       "license": "Apache-2.0",
@@ -47,11 +58,22 @@
       "requires": []
     },
     {
+      "id": "brain-infographic",
+      "name": "brain-infographic",
+      "version": "0.1.0",
+      "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-brain-infographic-v0.1.0/addon-brain-infographic-v0.1.0.zip",
+      "sha256": "6e94d8ea4674410e7c527a3d0ee32c822713cb11df643d9b1d6107159234c795",
+      "privacy": "sends-docs",
+      "author": "frontmatters",
+      "license": "Apache-2.0",
+      "requires": []
+    },
+    {
       "id": "chatgpt-import",
       "name": "ChatGPT Share Import",
-      "version": "0.1.0",
-      "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-chatgpt-import-v0.1.0/addon-chatgpt-import-v0.1.0.zip",
-      "sha256": "1a95815b5d7da3924182a9bb906d3a55c477e4535453d180f8a4f26193241981",
+      "version": "0.2.1",
+      "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-chatgpt-import-v0.2.1/addon-chatgpt-import-v0.2.1.zip",
+      "sha256": "c3d613a24cc44c61ffadf22bdd905a50ef6726f1c052f0647b87d461189d0bbd",
       "privacy": "local",
       "author": "ultimate_tagger",
       "license": "Apache-2.0",
@@ -64,7 +86,7 @@
       "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-claude-memory-redirect-v0.1.1/addon-claude-memory-redirect-v0.1.1.zip",
       "sha256": "efbf3bc52404400030fa77b550b07e5fee880837bbf57f01a42fb90d6e4619f0",
       "privacy": "local-only",
-      "author": "frontmatters",
+      "author": "Frontmatters",
       "license": "Apache-2.0",
       "requires": []
     },
@@ -75,16 +97,16 @@
       "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-event-bus-v0.3.1/addon-event-bus-v0.3.1.zip",
       "sha256": "b91123831c34a51dbac79ce7fd7bbfd86974528dec16cd066a71f2fb8b909dd4",
       "privacy": "local",
-      "author": "frontmatters",
+      "author": "Frontmatters",
       "license": "Apache-2.0",
       "requires": []
     },
     {
       "id": "extract-learnings",
       "name": "Extract Learnings (behavior)",
-      "version": "0.1.1",
-      "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-extract-learnings-v0.1.1/addon-extract-learnings-v0.1.1.zip",
-      "sha256": "c05caad73bb01ad2859e304450a57804126242d77a3ca8815809161d25e05361",
+      "version": "0.1.3",
+      "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-extract-learnings-v0.1.3/addon-extract-learnings-v0.1.3.zip",
+      "sha256": "6e400f868f1af0d2b1686f916737665e6148d8cb09dc0fd4271a84bd1d51eec5",
       "privacy": "sends-docs",
       "author": "frontmatters",
       "license": "Apache-2.0",
@@ -102,13 +124,24 @@
       "requires": []
     },
     {
+      "id": "goal",
+      "name": "Goal",
+      "version": "0.1.0",
+      "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-goal-v0.1.0/addon-goal-v0.1.0.zip",
+      "sha256": "7e30f73da959ed20355ecdbfc917b84c2f2773af0f86fd4c14c809d2eaaf7b0a",
+      "privacy": "local",
+      "author": "frontmatters",
+      "license": "Apache-2.0",
+      "requires": []
+    },
+    {
       "id": "graphify",
       "name": "Graphify",
       "version": "0.2.1",
       "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-graphify-v0.2.1/addon-graphify-v0.2.1.zip",
       "sha256": "a6c257afd180919d42c12512b309262515bb0677b74a26452e8c76c7ec75f19b",
       "privacy": "sends-docs",
-      "author": "frontmatters",
+      "author": "Frontmatters",
       "license": "Apache-2.0",
       "requires": []
     },
@@ -130,7 +163,7 @@
       "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-headroom-proxy-v0.1.1/addon-headroom-proxy-v0.1.1.zip",
       "sha256": "5f2ec1a6f5986ad755fc47e306e2231e2130dc9813de6f62043572c101e128c8",
       "privacy": "local",
-      "author": "frontmatters",
+      "author": "Frontmatters",
       "license": "Apache-2.0",
       "requires": []
     },
@@ -152,7 +185,7 @@
       "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-incognito-v0.1.1/addon-incognito-v0.1.1.zip",
       "sha256": "654de106a4b0a172943b9190d3675c260c000451128e3c1c1b59f0c72b3670d6",
       "privacy": "local-only",
-      "author": "frontmatters",
+      "author": "Frontmatters",
       "license": "Apache-2.0",
       "requires": []
     },
@@ -179,13 +212,24 @@
       "requires": []
     },
     {
+      "id": "pubcheck",
+      "name": "pubcheck",
+      "version": "0.1.0",
+      "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-pubcheck-v0.1.0/addon-pubcheck-v0.1.0.zip",
+      "sha256": "5a243eaedb7e5e215167e96308105eebe8481a27d29a55c41e835b49b15359c6",
+      "privacy": "local",
+      "author": "frontmatters",
+      "license": "Apache-2.0",
+      "requires": []
+    },
+    {
       "id": "routa",
       "name": "Routa",
       "version": "0.1.1",
       "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-routa-v0.1.1/addon-routa-v0.1.1.zip",
       "sha256": "d30b4746af80a90841a657d524373f00dfd5f27d659a219a215c275d922e46b9",
       "privacy": "sends-all",
-      "author": "frontmatters",
+      "author": "Frontmatters",
       "license": "Apache-2.0",
       "requires": []
     },
@@ -212,12 +256,34 @@
       "requires": []
     },
     {
+      "id": "semantic-index",
+      "name": "Semantic Index",
+      "version": "0.1.0",
+      "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-semantic-index-v0.1.0/addon-semantic-index-v0.1.0.zip",
+      "sha256": "8eef47a49eb80289b57893905ee1a1ac7ddc1342b4fd94714b787e0dcf7676a4",
+      "privacy": "local",
+      "author": "frontmatters",
+      "license": "Apache-2.0",
+      "requires": []
+    },
+    {
       "id": "session-journal",
       "name": "Session Journal (behavior)",
       "version": "0.1.1",
       "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-session-journal-v0.1.1/addon-session-journal-v0.1.1.zip",
       "sha256": "4d9b1360baad1b0436ae43f6d45a50687c5e56342fde3802093d0d2af1295acf",
       "privacy": "local-only",
+      "author": "Frontmatters",
+      "license": "Apache-2.0",
+      "requires": []
+    },
+    {
+      "id": "session-map",
+      "name": "Session Map",
+      "version": "0.4.1",
+      "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-session-map-v0.4.1/addon-session-map-v0.4.1.zip",
+      "sha256": "224d4dc8b76b46e09bc5fb53b0533d08ee38e638f189e871202bdad606ce3f47",
+      "privacy": "local",
       "author": "frontmatters",
       "license": "Apache-2.0",
       "requires": []
@@ -240,7 +306,7 @@
       "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-sitescope-v0.2.1/addon-sitescope-v0.2.1.zip",
       "sha256": "b5b201b7900f4db741e0127534fdc4f0c67189b2cb79c744fb71d181aaf0f132",
       "privacy": "sends-all",
-      "author": "frontmatters",
+      "author": "Frontmatters",
       "license": "Apache-2.0",
       "requires": []
     },
@@ -251,7 +317,7 @@
       "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-still-needed-v0.1.1/addon-still-needed-v0.1.1.zip",
       "sha256": "8d5edde0d8d24bcead714816b2970c31457d10948d027d1b218d85519f7d10da",
       "privacy": "local-only",
-      "author": "frontmatters",
+      "author": "Frontmatters",
       "license": "Apache-2.0",
       "requires": []
     },
@@ -262,7 +328,7 @@
       "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-trailofbits-skills-v0.1.1/addon-trailofbits-skills-v0.1.1.zip",
       "sha256": "1f6900696220601146705f3a62555837f98fe75caf25816fd5f67a5138a4130c",
       "privacy": "local",
-      "author": "frontmatters",
+      "author": "Frontmatters",
       "license": "Apache-2.0",
       "requires": []
     },
@@ -273,7 +339,7 @@
       "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-understand-anything-v0.1.1/addon-understand-anything-v0.1.1.zip",
       "sha256": "ce00b82a4db8b9d5c02c4fe317e5edb2302d6252970c05615e52f15794f8a762",
       "privacy": "sends-all",
-      "author": "frontmatters",
+      "author": "Frontmatters",
       "license": "Apache-2.0",
       "requires": []
     },
@@ -284,7 +350,7 @@
       "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-uxray-v0.1.2/addon-uxray-v0.1.2.zip",
       "sha256": "a6c61082a4de2399c409a1cd685ddecda45003ecd3bff2903b2757da15224240",
       "privacy": "local",
-      "author": "frontmatters",
+      "author": "Frontmatters",
       "license": "Apache-2.0",
       "requires": []
     },
@@ -295,7 +361,7 @@
       "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-web-interface-guidelines-v0.1.0/addon-web-interface-guidelines-v0.1.0.zip",
       "sha256": "144e50b92f6b160318a6bbcc9e254ae7e9a91bc6d72d7f9d718869fbfd567d78",
       "privacy": "local",
-      "author": "frontmatters",
+      "author": "Frontmatters",
       "license": "Apache-2.0",
       "requires": []
     },
@@ -313,9 +379,9 @@
     {
       "id": "youtube-digest",
       "name": "YouTube Digest",
-      "version": "0.3.1",
-      "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-youtube-digest-v0.3.1/addon-youtube-digest-v0.3.1.zip",
-      "sha256": "2fff20d20e0d66285795bce93f714afb7fc01f93338708241abbdf87913a6d6f",
+      "version": "0.3.2",
+      "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-youtube-digest-v0.3.2/addon-youtube-digest-v0.3.2.zip",
+      "sha256": "bde131ecc26c83057846494fb6a84a52692717a2234c1e8b3b7d5bdb1a1cff49",
       "privacy": "sends-docs",
       "author": "frontmatters",
       "license": "Apache-2.0",
@@ -328,7 +394,7 @@
       "url": "https://github.com/frontmatters/agentbrain-registry/releases/download/addon-youtube-knowledge-v0.1.0/addon-youtube-knowledge-v0.1.0.zip",
       "sha256": "2a0180f2867b2dedb0fd4ceec178918a53d95cd5a2fe8706f4bc107c7e6f67a6",
       "privacy": "sends-docs",
-      "author": "frontmatters",
+      "author": "Frontmatters",
       "license": "Apache-2.0",
       "requires": []
     }
